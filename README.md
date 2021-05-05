@@ -24,6 +24,6 @@ DistilBertForQuestionAnswering
 
 training: jaccard=0.775, loss=0.456
 valid: 0.6792924870478324
-test: 0.66866
+test: 0.0.67255
 
 
