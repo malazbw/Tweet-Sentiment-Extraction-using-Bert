@@ -16,6 +16,7 @@ DistilBertForQuestionAnswering
 
 ## LINKS :
  * Kaggle competition - https://www.kaggle.com/c/tweet-sentiment-extraction
+ * Kaggle kernel - https://www.kaggle.com/malazbw/tweet-bert?scriptVersionId=62014866
  * Dataset - https://www.kaggle.com/c/tweet-sentiment-extraction/data
  * Model - https://huggingface.co/transformers/model_doc/distilbert.html#tfdistilbertforquestionanswering
  
